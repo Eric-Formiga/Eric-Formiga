@@ -1,10 +1,15 @@
 
-### Olá! eu sou o Eric formiga 🖐️
- 
+### Olá!
+
+eu sou o Eric formiga 🖐️, Sou um desenvolvedor front-end apaixonado por tecnologia, Atualmente crio projetos com:
+- HTML
+- CSS
+- Javscript 
+- React.js.
+
+Aqui no Github você encontra alguns dos meus projetos, Se quiser saber mais sobre mim entre em contato comigo pelo linkedin ou email.
+
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Eric-Formiga)
-
- ![Eric formiga GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Formiga&show_icons=true&theme=dracula)
-
 
  ## Tecnologias que uso no meu dia a dia
 
@@ -16,3 +21,8 @@
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 <br/>
+
+ ![Eric formiga GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Formiga&show_icons=true&theme=dracula)
+
+
+
