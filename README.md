@@ -8,7 +8,7 @@ eu sou o Eric formiga 🖐️, Sou um desenvolvedor front-end apaixonado por tec
 - React.js.
 
 Aqui no Github você encontra alguns dos meus projetos, Se quiser saber mais sobre mim entre em contato comigo pelo linkedin ou email.
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Eric-Formiga)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-formiga-680930247/)
  ## Tecnologias que uso no meu dia a dia
 <div style="display: inline-block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
