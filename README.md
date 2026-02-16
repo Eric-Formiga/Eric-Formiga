@@ -4,8 +4,11 @@
 eu sou o Eric formiga 🖐️, Sou um desenvolvedor front-end apaixonado por tecnologia, Atualmente crio projetos com:
 - HTML
 - CSS
-- Javscript 
-- React.js.
+- Javscript
+- Typescript 
+- React.js
+- Angular
+- Node.
 
 Aqui no Github você encontra alguns dos meus projetos, Se quiser saber mais sobre mim entre em contato comigo pelo linkedin ou email.
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-formiga-680930247/)
