@@ -7,8 +7,12 @@ eu sou o Eric formiga 🖐️, Sou um desenvolvedor front-end apaixonado por tec
 - Javscript
 - Typescript 
 - React.js
+- Next.js
 - Angular
-- Node.
+- Node
+- Nest.js
+- AWS
+- ci/cd
 
 Aqui no Github você encontra alguns dos meus projetos, Se quiser saber mais sobre mim entre em contato comigo pelo linkedin ou email.
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-formiga-680930247/)
